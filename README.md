@@ -9,3 +9,6 @@ To initiate the program please type:
     node server
 
 ## Links 
+https://youtu.be/JBiOepKY2kw
+
+https://fitness-tracker-chelsea.herokuapp.com/ 
